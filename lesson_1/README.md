@@ -12,9 +12,9 @@ https://www.w3.org/QA/2002/04/valid-dtd-list.html
 (dlaczego <!doctype html> ! oznacza start mdo - Markup declarations open a nie markup element)
 4. Blok html i h1
 5. Analiza elementów w jobadzie https://jobs.smartrecruiters.com/IBM/743999660015073-front-end-developer
-6. Stworzenie struktury opisowo
-7. Zamiana na tagi HTML https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-8. Reindent w Sublimetext
+6. Stworzenie struktury opisowo ( semantyka - analiza znaczenieaelementów jezykowych)
+7. Zamiana na tagi HTML https://developer.mozilla.org/en-US/docs/Web/HTML/Element - intelisense w SublieText
+8. Reindent w Sublimetext 
 9. Podgląd w Develpoers Tool
 
 
